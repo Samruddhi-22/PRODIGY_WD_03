@@ -18,3 +18,6 @@ If all spaces are filled, the game ends in a draw.
 - HTML
 - CSS
 - JavaScript
+
+![Screenshot 2024-05-21 211757](https://github.com/Samruddhi-22/PRODIGY_WD_03/assets/138032737/7761c248-10d6-416a-9996-9772e134fb0e)
+
